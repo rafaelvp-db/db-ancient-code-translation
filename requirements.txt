@@ -1,0 +1,7 @@
+accelerate==0.21.0
+ninja
+alibi
+einops
+transformers
+triton
+xformers
