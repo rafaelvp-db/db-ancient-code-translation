@@ -27,6 +27,8 @@
 
 ## Appendix
 
+### Evaluation
+To evaluate StarCoder and its derivatives, you can use the [BigCode-Evaluation-Harness](https://github.com/bigcode-project/bigcode-evaluation-harness) for evaluating Code LLMs.
 ### Inference hardware requirements
 
 In FP32 the model requires more than 60GB of RAM, you can load it in FP16 or BF16 in ~30GB, or in 8bit under 20GB of RAM with
