@@ -14,5 +14,5 @@
 
 ## Authors
 
-* Rafael V. Pierre
-* Andreas Jack
+* [Rafael V. Pierre](https://github.com/rafaelvp-db/)
+* [Andreas Jack](https://github.com/AndreasJaeck)
