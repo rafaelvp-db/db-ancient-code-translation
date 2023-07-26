@@ -5,7 +5,7 @@
 ## Getting Started
 
 * Clone this repo into your Databricks Workspace
-* Configure a Databricks single node cluster with MLR 13.2 and an A100 GPU
+* Configure a Databricks single node cluster with [Databricks Runtime 13.2 for Machine Learning](https://docs.databricks.com/release-notes/runtime/13.2ml.html) and an A100 GPU
     * On Azure: `Standard_NC24ads_A100_v4` [instances](https://learn.microsoft.com/en-us/azure/virtual-machines/nc-a100-v4-series)
     * On AWS: `EC2 P4d` [instances](https://aws.amazon.com/ec2/instance-types/p4/#:~:text=P4d%20instances%20are%20powered%20by,support%20400%20Gbps%20instance%20networking.)
 * Install the following libraries into the cluster:
