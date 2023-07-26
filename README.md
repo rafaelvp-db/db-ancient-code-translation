@@ -11,3 +11,8 @@
 <img src="https://github.com/rafaelvp-db/db-ancient-code-translation/blob/main/img/libraries.png?raw=true" style="width: 600px" />
 
 * Run the notebooks from the `notebooks` folder
+
+## Authors
+
+* Rafael V. Pierre
+* Andreas Jack
