@@ -6,6 +6,7 @@
 </p>
 
 <hr/>
+
 ## Getting Started
 
 * Clone this repo into your Databricks Workspace
