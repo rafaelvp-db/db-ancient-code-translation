@@ -9,3 +9,5 @@
 * Install the following libraries into the cluster:
 
 <img src="https://github.com/rafaelvp-db/db-ancient-code-translation/blob/main/img/libraries.png?raw=true" style="width: 600px" />
+
+* Run the notebooks from the `notebooks` folder
