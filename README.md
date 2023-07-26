@@ -21,6 +21,6 @@
 
 ## Reference
 
-* (💫 StarCoder Github Project)[https://github.com/bigcode-project/starcoder]
+* 💫 [StarCoder Github Project](https://github.com/bigcode-project/starcoder)
 * Tunstall, Lewis and Lambert, Nathan and Rajani, Nazneen and Beeching, Edward and Le Scao, Teven and von Werra, Leandro and Han, Sheon and Schmid, Philipp and Rush, Alexander. [Creating a Coding Assistant with StarCoder](https://huggingface.co/blog/starchat). Hugging Face Blog, 2023.
-* (Big Science Open RAIL-M License)[https://www.licenses.ai/blog/2022/8/26/bigscience-open-rail-m-license]
+* [Big Science Open RAIL-M License](https://www.licenses.ai/blog/2022/8/26/bigscience-open-rail-m-license)
