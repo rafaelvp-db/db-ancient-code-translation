@@ -18,3 +18,13 @@
 
 * [Rafael V. Pierre](https://github.com/rafaelvp-db/)
 * [Andreas Jack](https://github.com/AndreasJaeck)
+
+## Reference
+
+@article{Tunstall2023starchat-alpha,
+  author = {Tunstall, Lewis and Lambert, Nathan and Rajani, Nazneen and Beeching, Edward and Le Scao, Teven and von Werra, Leandro and Han, Sheon and Schmid, Philipp and Rush, Alexander},
+  title = {Creating a Coding Assistant with StarCoder},
+  journal = {Hugging Face Blog},
+  year = {2023},
+  note = {https://huggingface.co/blog/starchat},
+}
