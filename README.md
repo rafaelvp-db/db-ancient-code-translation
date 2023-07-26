@@ -6,7 +6,7 @@
 
 <hr/>
 
-### TLDR;
+## TLDR;
 
 This repo demonstrates code translation (Code to Text, Code to Code) capabilities using Large Language Models (LLMs) on Databricks
 
