@@ -6,8 +6,8 @@
 
 * Clone this repo into your Databricks Workspace
 * Configure a Databricks single node cluster with [Databricks Runtime 13.2 for Machine Learning](https://docs.databricks.com/release-notes/runtime/13.2ml.html) and an [NVIDIA A100](https://www.nvidia.com/en-us/data-center/a100/) GPU ([A10](https://www.nvidia.com/en-us/data-center/products/a10-gpu/) might also work, though with lower floating point precision)
-    * On Azure: `Standard_NC24ads_A100_v4` [instances](https://learn.microsoft.com/en-us/azure/virtual-machines/nc-a100-v4-series)
-    * On AWS: `EC2 P4d` [instances](https://aws.amazon.com/ec2/instance-types/p4/#:~:text=P4d%20instances%20are%20powered%20by,support%20400%20Gbps%20instance%20networking.)
+    * A100 Instances On Azure: `Standard_NC24ads_A100_v4` [instances](https://learn.microsoft.com/en-us/azure/virtual-machines/nc-a100-v4-series)
+    * A100 Instances On AWS: `EC2 P4d` [instances](https://aws.amazon.com/ec2/instance-types/p4/#:~:text=P4d%20instances%20are%20powered%20by,support%20400%20Gbps%20instance%20networking.)
 * Install the following libraries into the cluster:
 
 <img src="https://github.com/rafaelvp-db/db-ancient-code-translation/blob/main/img/libraries.png?raw=true" style="width: 600px" />
