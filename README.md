@@ -1,10 +1,9 @@
 # db-ancient-code-translation
+### TLDR; this repo demonstrates code translation capabilities using LLMs on Databricks
 
 <p align="center">
 <img src="https://github.com/rafaelvp-db/db-ancient-code-translation/blob/main/img/ancient_code.jpeg?raw=true" style="width: 50%"/>
 </p>
-
-### TLDR; this repo demonstrates code translation capabilities using LLMs on Databricks
 
 ## Getting Started
 
