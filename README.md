@@ -5,6 +5,7 @@
 <img src="https://github.com/rafaelvp-db/db-ancient-code-translation/blob/main/img/ancient_code.jpeg?raw=true" style="width: 50%"/>
 </p>
 
+<hr/>
 ## Getting Started
 
 * Clone this repo into your Databricks Workspace
