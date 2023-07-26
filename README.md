@@ -24,3 +24,23 @@
 * 💫 [StarCoder Github Project](https://github.com/bigcode-project/starcoder)
 * Tunstall, Lewis and Lambert, Nathan and Rajani, Nazneen and Beeching, Edward and Le Scao, Teven and von Werra, Leandro and Han, Sheon and Schmid, Philipp and Rush, Alexander. [Creating a Coding Assistant with StarCoder](https://huggingface.co/blog/starchat). Hugging Face Blog, 2023.
 * [Big Science Open RAIL-M License](https://www.licenses.ai/blog/2022/8/26/bigscience-open-rail-m-license)
+
+## Appendix
+
+### Inference hardware requirements
+
+In FP32 the model requires more than 60GB of RAM, you can load it in FP16 or BF16 in ~30GB, or in 8bit under 20GB of RAM with
+
+```python
+# make sure you have accelerate and bitsandbytes installed
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+tokenizer = AutoTokenizer.from_pretrained("bigcode/starcoder")
+# for fp16 replace with  `load_in_8bit=True` with   `torch_dtype=torch.float16`
+model = AutoModelForCausalLM.from_pretrained("bigcode/starcoder", device_map="auto", load_in_8bit=True)
+print(f"Memory footprint: {model.get_memory_footprint() / 1e6:.2f} MB")
+```
+
+```
+Memory footprint: 15939.61 MB
+```
