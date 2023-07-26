@@ -1,6 +1,6 @@
 # Databricks Ancient Code Translation
 
-![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-StarChat-brightgreen?style=for-the-badge)  ![databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)
+![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-StarChat-brightgreen?style=for-the-badge)  ![pytorch](https://img.shields.io/badge/pytorch-8A2BE2?style=for-the-badge) ![databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)
 
 <p align="center">
 <img src="https://github.com/rafaelvp-db/db-ancient-code-translation/blob/main/img/ancient_code.jpeg?raw=true" style="width: 50%"/>
