@@ -32,6 +32,14 @@ xformers
 
 * Run the notebooks from the `notebooks` folder
 
+## Roadmap
+
+* ~~PL/SQL~~
+   * ~~Generating code explanations (code to text)~~
+   * ~~Converting to PySpark~~
+* SAS
+* Snowflake
+
 ## Authors
 
 * [Rafael V. Pierre](https://github.com/rafaelvp-db/)
