@@ -7,7 +7,7 @@ url = databricks_url + "/serving-endpoints/llama2/invocations"
 
 # MAGIC %md
 # MAGIC
-# MAGIC ### Simple Example: C++ to Python
+# MAGIC ### AVATAR: Java-Python Program Translation Dataset
 
 # COMMAND ----------
 
